@@ -1,0 +1,34 @@
+# Fanqie Novel / ByteDance ad domains for Shadowrocket RULE-SET
+# Use this file via: RULE-SET,<raw-url>,REJECT
+# Do not append REJECT to individual entries in a RULE-SET file.
+
+# Known Fanqie / ByteDance ad endpoints
+DOMAIN,ads5-normal-lq.zijieapi.com
+DOMAIN,ads5-normal-lf.zijieapi.com
+DOMAIN,p6-ad-sign.byteimg.com
+DOMAIN,p9-ad-sign.byteimg.com
+DOMAIN,rtb.voiceads.cn
+DOMAIN,skdisplay.jd.com
+
+# ByteDance / Pangle ad infrastructure
+DOMAIN-SUFFIX,byteadverts.com
+DOMAIN-SUFFIX,csjplatform.com
+DOMAIN-SUFFIX,pangolin-dsp-toutiao.com
+DOMAIN-SUFFIX,pangolin-dsp-toutiao-b.com
+DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
+DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
+DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com
+
+DOMAIN,pangolin.snssdk.com
+DOMAIN,pangolin-lf.snssdk.com
+DOMAIN,pangolin-lq.snssdk.com
+DOMAIN,pangolin-hl.snssdk.com
+
+DOMAIN-SUFFIX,panplayable-toutiao.com
+DOMAIN-SUFFIX,panplayable-toutiao-b.com
+DOMAIN-SUFFIX,pglstatp-sdk-toutiao.com
+DOMAIN-SUFFIX,pglstatp-snssdk-toutiao.com
+DOMAIN-SUFFIX,pglstatp-toutiao.com
+DOMAIN-SUFFIX,pglstatp-toutiao-b.com
+
+DOMAIN,ad.toutiao.com
