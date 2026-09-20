@@ -3,10 +3,14 @@
 # Do not append REJECT to individual entries in a RULE-SET file.
 
 # Known Fanqie / ByteDance ad endpoints
+DOMAIN,ads3-normal-lf.zijieapi.com
 DOMAIN,ads5-normal-lq.zijieapi.com
 DOMAIN,ads5-normal-lf.zijieapi.com
+DOMAIN,p3-ad-sign.byteimg.com
 DOMAIN,p6-ad-sign.byteimg.com
 DOMAIN,p9-ad-sign.byteimg.com
+DOMAIN,p3-orange-sign.byteimg.com
+DOMAIN,lf-reward-video.bytedcdn.com
 DOMAIN,rtb.voiceads.cn
 DOMAIN,skdisplay.jd.com
 
